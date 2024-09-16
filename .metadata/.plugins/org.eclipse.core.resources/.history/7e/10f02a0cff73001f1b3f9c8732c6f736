@@ -1,0 +1,5 @@
+package com.orderservice.kafka;
+
+public class OrderController {
+
+}

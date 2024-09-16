@@ -1,0 +1,5 @@
+package com.basedomains.dto;
+
+public class OrderEvent {
+
+}

@@ -1,0 +1,9 @@
+package com.stockservice;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class OrderConsumer {
+
+	
+}

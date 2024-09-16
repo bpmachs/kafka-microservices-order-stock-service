@@ -1,0 +1,3 @@
+#spring.application.name=order-service
+
+spring.kafka.producer.bootstrap-servers: localhost:9092

@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:order-service - OrderServiceApplication,org.eclipse.launchbar.core.descriptorType.default\:stock-service - StockServiceApplication,org.eclipse.launchbar.core.descriptorType.default\:email-service - EmailServiceApplication
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:email-service\ -\ EmailServiceApplication/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:email-service\ -\ EmailServiceApplication/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:order-service\ -\ OrderServiceApplication/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:order-service\ -\ OrderServiceApplication/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
